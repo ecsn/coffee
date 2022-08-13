@@ -1,0 +1,29 @@
+attribute_infobox;attribute_mapping
+name;http://xmlns.com/foaf/0.1/name
+author;dbo:author
+audio_read_by;
+title_orig;
+orig_lang_code;
+title_working;
+translator;
+illustrator;
+cover_artist;
+country;dbo:country
+language;dbo:language
+series;dbo:series
+release_number;
+subject;dbo:nonFictionSubject
+genre;dbo:literaryGenre
+set_in;
+publisher;dbo:publisher
+english_pub_date;
+published;dbo:publicationDate
+pages;dbo:numberOfPages
+awards;
+isbn;dbo:isbn
+oclc;dbo:oclc
+dewey;
+congress;
+preceded by;
+followed by;
+website;http://xmlns.com/foaf/0.1/homepage
