@@ -12,3 +12,16 @@ Please note that this is research code. It is not very clean, and not well docum
 
 * CoFFee_pipeline.ipynb -> main pipeline
 * experiments.ipynb -> experiments code
+
+
+## Citation
+Neto, E. C., Moreira, J., Barbosa, L., & Salgado, A. C. (2022, September). CoFFee: A Co-occurrence and Frequency-Based Approach to Schema Mining. In Anais do XXXVII Simpósio Brasileiro de Bancos de Dados (pp. 52-64). SBC.
+
+@inproceedings{neto2022coffee,
+  title={CoFFee: A Co-occurrence and Frequency-Based Approach to Schema Mining},
+  author={Neto, Everaldo Costa and Moreira, Johny and Barbosa, Luciano and Salgado, Ana Carolina},
+  booktitle={Anais do XXXVII Simp{\'o}sio Brasileiro de Bancos de Dados},
+  pages={52--64},
+  year={2022},
+  organization={SBC}
+}
