@@ -1,0 +1,13 @@
+attribute_infobox;attribute_mapping
+name;http://xmlns.com/foaf/0.1/name
+birth_name;dbo:birthName
+birth_date;dbo:birthDate,dbo:birthYear
+birth_place;dbo:birthPlace
+death_date;dbo:deathDate,dbo:deathYear
+death_place;dbo:deathPlace
+nationality;dbo:nationality
+other_names;
+occupation;dbo:occupation
+years_active;dbo:activeYearsStartYear,dbo:activeYearsEndYear
+known_for;dbo:knownFor
+notable_works;dbo:notableWork
